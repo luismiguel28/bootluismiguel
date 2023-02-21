@@ -373,14 +373,13 @@
          {
             "tag" : " tecnologia " ,
             "patterns" :[
-               "¿ Que tecnologia usas? " ,
-               "¿ Eres magico? "
+               "Que tecnologia usas" ,
+               "Eres magico"
             ],
             "responses" :[
                " Uso TFLearn y TensorFlow " ,
-               " Soy una inteligencia artificial fabricada en Mauricio "
-            ],
-            "conjunto_contexto" : " "
+               " Soy una inteligencia artificial fabricada en Luis "
+            ]
          }
     ]
 }
