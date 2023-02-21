@@ -371,10 +371,10 @@
             ]
         },
          {
-            "tag" : " tecnología " ,
+            "tag" : " tecnologia " ,
             "patterns" :[
-               "¿ Qué tecnología usas? " ,
-               "¿ Eres mágico? "
+               "¿ Que tecnologia usas? " ,
+               "¿ Eres magico? "
             ],
             "responses" :[
                " Uso TFLearn y TensorFlow " ,
