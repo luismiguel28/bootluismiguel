@@ -369,6 +369,18 @@
                 "seguro?",
                 "te dare un momento para que cambies de opinion"
             ]
-        }
+        },
+         {
+            "tag" : " tecnología " ,
+            "patterns" :[
+               "¿ Qué tecnología usas? " ,
+               "¿ Eres mágico? "
+            ],
+            "responses" :[
+               " Uso TFLearn y TensorFlow " ,
+               " Soy una inteligencia artificial fabricada en Mauricio "
+            ],
+            "conjunto_contexto" : " "
+         }
     ]
 }
